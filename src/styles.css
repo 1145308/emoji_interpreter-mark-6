@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+body {
+  background-color: aqua;
+}
+#tag {
+  color: orangered;
+  padding: 0.5rem;
+}
+#head {
+  padding: 2rem;
+}
+
+#input-box {
+  border-radius: 5vh;
+  border-width: 0.2rem;
+  border-color: black;
+  padding: 0.4rem;
+}
+#Header {
+  padding: 0.5rem;
+}
